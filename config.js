@@ -60,33 +60,33 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `*Kalau udah dikasih, bilang apa?*`
-namakontak1 = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
-namakontak2 = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
+kasihcaption = `*MAKASIH KEK NGNTD!!*`
+namakontak1 = 'ROMLI SUHANDA'
+namakontak2 = 'ROMLI SUHANDA'
 
-//kasihcaption = `Kalau udah dikasih, bilang apa?`
+//kasihcaption = `MAKASIH KEK NGNTD!!`
 
 // Sticker WM
-global.packname = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
-global.author = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×' // ganti aja
+global.packname = 'Zxyuu' // ganti aja
+global.author = 'Xzyuu' // ganti aja
 
 //yyy
-'𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×' // Broadcast
-footer = '\𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namabot = '𝙆𝙧𝙞𝙯𝙮𝙣×͜×'
-namalu = 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜×'
+'ZxyuuBotz' // Broadcast
+footer = 'ZxyuuBotz' // Broadcast
+footer = '\ZxyuuBotz'
+namabot = 'ZxyuuBotz'
+namalu = 'ROMLI SUHANDA'
 
 
 // 
-wait = '⏳𝙎𝙚𝙙𝙖𝙣𝙜 𝙙𝙞𝙥𝙧𝙤𝙨𝙚𝙨...'
-global.wait = '⏳𝙎𝙚𝙙𝙖𝙣𝙜 𝙙𝙞𝙥𝙧𝙤𝙨𝙚𝙨...'
+wait = '⏳*WAIT COUG LAGI PROSES..*'
+global.wait = '⏳_*WAIT COUG LAGI PROSES..*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
-global.eror = '❗𝙎𝙚𝙧𝙫𝙚𝙧 𝙀𝙧𝙧𝙤𝙧...'
+global.eror = '❗_*LAGI EROR NGNTD*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '𝙆𝙧𝙞𝙯𝙮𝙣×͜× ' //change the watermark 
+global.watermark = 'ZxyuuBotz ' //change the watermark 
 global.image = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg' //change the image
 global.thumbfoto = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg'
 
