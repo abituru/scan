@@ -14,11 +14,11 @@
 gc1 = 'https://instagram.com/mhdfakri_'
 gc2 = 'https://www.youtube.com/c/HokenBeusz'
 gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
-global.linkGC = ['https://chat.whatsapp.com/KTUF5TbtlWu4vOFnlDqCwg', ''] // ganti jadi group lu
-global.owner = ['62895328590064','62895327934887'] // Put your number here //owner eval
-global.kontak = ['62895328590064','62895327934887'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179', ''] // ganti jadi group lu
+global.owner = ['6281224804625','6281224804625'] // Put your number here //owner eval
+global.kontak = ['6281224804625','6281224804625'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['62895328590064','62895327934887'] // Premium user has unlimited limit
+global.prems = ['621224804625',''] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -87,7 +87,7 @@ global.eror = '❗_*LAGI EROR NGNTD*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = 'ZxyuuBotz ' //change the watermark 
-global.image = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg' //change the image
+global.image = '' //change the image
 global.thumbfoto = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg'
 
 // image
