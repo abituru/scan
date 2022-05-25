@@ -11,9 +11,9 @@ handler.all = async function (m) {
     if (new Date - user.pc < 9000000) return // setiap 1 jam sekali
     await this.sendButton(m.chat, `
 *${ucapan()}*
-───⬡ 〔 𝐁𝐎𝐓 𝐂𝐇𝐀𝐓 〕 ⬡────
+───⬡ 〔 HAII TOD 〕 ⬡────
 ╭───────────────╮
-        My name 𝙆𝙧𝙞𝙯𝙮𝙣 ×͜× 
+        Gua ZxyuuBotz 
         Salah satu Bot diwhatsapp
 ╰───────────────╯
 ${user.banned ? 'kamu dibanned' : 'Silahkan mematuhi Rules Bot\nDemi kenyamanan kita bersama'}
