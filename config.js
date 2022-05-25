@@ -15,10 +15,10 @@ gc1 = '*GADA*🗿'
 gc2 = '*GADA*🗿'
 gc3 = '*AWOWKWKWKK*🗿'
 global.linkGC = ['https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179', ''] // ganti jadi group lu
-global.owner = ['6281224804625','6281224804625'] // Put your number here //owner eval
-global.kontak = ['6281224804625','6281224804625'] //Ketika ada yang ngetik #owner
+global.owner = ['6281224804625','6281215710461'] // Put your number here //owner eval
+global.kontak = ['6281224804625','6281215710461'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['621224804625',''] // Premium user has unlimited limit
+global.prems = ['621224804625','6281215710461'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
@@ -61,8 +61,8 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `*MAKASIH KEK NGNTD!!*`
-namakontak1 = 'ROMLI SUHANDA'
-namakontak2 = 'ROMLI SUHANDA'
+namakontak1 = 'ZxyuuRomz'
+namakontak2 = 'XzyuuNaii'
 
 //kasihcaption = `MAKASIH KEK NGNTD!!`
 
@@ -75,7 +75,7 @@ global.author = 'Xzyuu' // ganti aja
 footer = 'ZxyuuBotz' // Broadcast
 footer = '\ZxyuuBotz'
 namabot = 'ZxyuuBotz'
-namalu = 'ROMLI SUHANDA'
+namalu = 'ZxyuuRomz'
 
 
 // 
@@ -86,7 +86,7 @@ global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fi
 global.eror = '❗_*LAGI EROR NGNTD*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = 'ZxyuuBotz ' //change the watermark 
+global.watermark = '*ZxyuuBotz*' //change the watermark 
 global.image = '' //change the image
 global.thumbfoto = 'https://telegra.ph/file/79a7809aa11ce604c129c.jpg'
 
