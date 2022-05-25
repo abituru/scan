@@ -7,7 +7,7 @@ let handler  = async (m, { conn, args, usedPrefix, command }) => {
 	await conn.updatePresence(m.chat, Presence.composing)
 	if (isClose === undefined)
 		throw `
-*salah anj! gini Contoh nya tod :*
+*salah TOLOL! gini Contoh nya tod :*
 
   *○ ${usedPrefix + command} tutup*
   *○ ${usedPrefix + command} buka*
