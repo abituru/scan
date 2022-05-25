@@ -60,11 +60,11 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `*MAKASIH KEK NGNTD!!*`
+kasihcaption = `*UDAH DIKASIH BILANG APA??!!*`
 namakontak1 = 'ZxyuuRomz'
 namakontak2 = 'XzyuuNaii'
 
-//kasihcaption = `MAKASIH KEK NGNTD!!`
+//kasihcaption = `UDAH DIKASIH BILANG APA??!!`
 
 // Sticker WM
 global.packname = 'Zxyuu' // ganti aja
@@ -79,12 +79,11 @@ namalu = 'ZxyuuRomz'
 
 
 // 
-wait = '⏳*WAIT COUG LAGI PROSES..*'
-global.wait = '⏳_*WAIT COUG LAGI PROSES..*_'
+wait = '⏳*BENTAR ANJGG!!..*'
+global.wait = '⏳_*BENTAR ANJGG!!..*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '❗_*LAGI EROR NGNTD*_'
-
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.watermark = '*ZxyuuBotz*' //change the watermark 
 global.image = '' //change the image
