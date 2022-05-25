@@ -5,9 +5,9 @@ let handler = async (m, { conn }) => {
 ❍ Allomypren, Nah ini Harga beli nya👋
 ╔═══════════════════
 ║╭─❉ 「 𝗗𝗢𝗡𝗔𝗦𝗜 𝗢𝗪𝗡𝗘𝗥 」 ❉───
-║│➸ *DANA* : 081360482998
-║│➸ *PULSA*: 081360482998
-║│➸ *GOPAY*: 𝗠𝗶𝗻𝘁𝗮 𝗞𝗲 𝗢𝘄𝗻𝗲𝗿
+║│➸ *DANA* : _*CHAT OWNER*_
+║│➸ *PULSA*: _*CHAT OWNER*_
+║│➸ *GOPAY*: _*CHAT OWNER*_
 ║╰──────────────────
 ╠══════════════════
 ║╭──❉ 「 𝗟𝗜𝗦𝗧 𝗛𝗔𝗥𝗚𝗔 」 ❉─────
