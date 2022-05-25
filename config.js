@@ -11,9 +11,9 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://instagram.com/mhdfakri_'
-gc2 = 'https://www.youtube.com/c/HokenBeusz'
-gc3 = 'https://vt.tiktok.com/ZSeCJHbfA/'
+gc1 = '*GADA*🗿'
+gc2 = '*GADA*🗿'
+gc3 = '*AWOWKWKWKK*🗿'
 global.linkGC = ['https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179', ''] // ganti jadi group lu
 global.owner = ['6281224804625','6281224804625'] // Put your number here //owner eval
 global.kontak = ['6281224804625','6281224804625'] //Ketika ada yang ngetik #owner
