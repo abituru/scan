@@ -30,7 +30,7 @@ let handler = async (m, { conn }) => {
 ├֍ ${jadibot ? '✅Sudah Aktif' : '❌Tidak Aktif'} *Jadi Bot*
 ├֍ ${nsfw ? '✅Sudah Aktif' : '❌Tidak Aktif'} *Mode Nsfw*
 ╰──────────❒`.trim()
-     await conn.send2ButtonLoc(m.chat, await(await fetch(image)).buffer(), str, 'ᴹᴿ𝙄𝙩𝙨𝙠𝙧𝙞 ×፝֟͜× ', 'Owner', '.owner', 'Menu', '.menu', m)
+     await conn.send2ButtonLoc(m.chat, await(await fetch(image)).buffer(), str, 'ZxyuuBotz ', 'Owner', '.owner', 'Menu', '.menu', m)
 }
 handler.help = ['botstatus']
 handler.tags = ['info']
