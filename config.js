@@ -14,11 +14,11 @@
 gc1 = '*GADA*🗿'
 gc2 = '*GADA*🗿'
 gc3 = '*AWOWKWKWKK*🗿'
-global.linkGC = ['https://chat.whatsapp.com/ItgtoArOdVD46P7S9cA179', ''] // ganti jadi group lu
-global.owner = ['6281224804625','6281215710461'] // Put your number here //owner eval
-global.kontak = ['6281224804625','6281215710461'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://https://chat.whatsapp.com/HCVVBE1Qs3LAiMWzGsPZTa', ''] // ganti jadi group lu
+global.owner = ['6288232154376','6288232154376'] // Put your number here //owner eval
+global.kontak = ['6288232154376','6288232154376'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['621224804625','6281215710461'] // Premium user has unlimited limit
+global.prems = ['6288232154376','6281215710461'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // nama: 'https://website'
   hardianto: 'https://hardianto-chan.herokuapp.com',
