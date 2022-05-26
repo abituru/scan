@@ -10,8 +10,7 @@ RUN apt-get update && \
 
 COPY package.json .
 
-RUN npm install
-RUN npm install yt-search@latest
+RUN npm install && npm install qrcode-terminal && npm install pm2 -g 
 
 COPY . .
 
